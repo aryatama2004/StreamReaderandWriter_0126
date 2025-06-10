@@ -1,0 +1,2 @@
+cd "c:\KULIAH\PEMDAS\pertemuan 13\" ; if ($?) { g++ exeptionstandard.cpp -o exeptionstandard } ; if ($?) { .\exeptionstandard }
+cd "c:\KULIAH\PEMDAS\pertemuan 13\" ; if ($?) { g++ manualExeption.cpp -o manualExeption } ; if ($?) { .\manualExeption }
