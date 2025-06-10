@@ -4,7 +4,11 @@
 using namespace std;
 
 int main(){
+    string baris;
+    string namaFile;
 
+    cout << "masukan nama file: ";
+    cin >> namaFile;
 
   
  
