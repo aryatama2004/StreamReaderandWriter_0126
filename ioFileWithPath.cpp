@@ -42,10 +42,11 @@ int main(){
         //melakukan perulangan setiap baris
         while (getline(infile,baris))
         {
-            //dan tampilkan disini
+            //dan tampilka disini
             cout << baris << '\n';
         }
-    
+        //tutup file tersebut setelah selesai
+        infile.close();
     }
  
 }
