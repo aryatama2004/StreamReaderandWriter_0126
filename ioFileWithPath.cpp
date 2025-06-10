@@ -10,6 +10,9 @@ int main(){
     cout << "masukan nama file: ";
     cin >> namaFile;
 
+    //operasi file dalam mode nulis.
+    ofstream outfile;
+
   
  
 
